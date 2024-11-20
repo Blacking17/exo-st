@@ -1,2 +1,5 @@
 print (i like git')
 print (hello)
+function sum2 (args)
+return sum2 (argrs)
+print (sum2 ([1,2,3]))
